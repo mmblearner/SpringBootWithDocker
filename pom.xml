@@ -58,7 +58,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>bhogemukesh/springbootwithdocker</repository>
+					<repository>repositoryname/springbootwithdocker</repository>
 					<tag>${project.version}</tag>
 				</configuration>
 				<dependencies>
